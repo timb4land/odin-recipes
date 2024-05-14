@@ -1,0 +1,59 @@
+.list {
+    font-size: 50px;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+img {
+    width: auto;
+    height: 300px;
+}
+
+.container {
+    background-color: #7700FF;
+    height: auto;
+    text-align: center;
+}
+
+.title {
+    color: #EDEDED;
+    font-weight: bold;
+    height: 70px;
+    font-size: 60px;
+}
+
+button {
+    font-size: 35px;
+    background-color: #3333FF;
+    color: white;
+}
+
+.burgerbody {
+    font-size: 20px;
+    text-align: center;
+    background-color: beige;
+    font-weight: bold;    
+}
+
+.burgerbody.burger {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.burgersteps {
+    color: blue;
+}
+
+.burgeringredients {
+    color: green;
+}
+
+.paragraphs {
+    color: red;
+}
+
+h3 {
+    color: #333333;
+    background-color: #CCCCCC;
+    font-size: 44px;
+}
