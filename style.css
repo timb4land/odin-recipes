@@ -59,6 +59,10 @@ button {
     font-size: 44px;
 }
 
+.steakh3 {
+    font-size: 44px;
+}
+
 .burgerh3-2 {
     background-color: red;
     color: white;
@@ -80,10 +84,26 @@ button {
 .wingstitle {
     font-size: 60px;
     font-weight: bold;
+    color: #AA3033;
 }
 
 .burgerbody .wingsh3 {
     font-size: 44px;
     background-color: #F1F1F1;
     color: #222222;   
+}
+
+#steak {
+    background-color: #ffaa00;
+    color: #5c4033
+}
+
+body h3 {
+    background-color: #eeeeee;
+}
+
+.steaktitle {
+    font-size: 60px;
+    font-weight: bold;
+    color: #5c4033
 }
