@@ -1,31 +1,100 @@
-.list {
-    font-size: 50px;
-    background-color: #ffffff;
-    text-align: center;
+body {
+    background-color: #a5f;
+    margin: 20px;
 }
 
-img {
-    width: auto;
-    height: 300px;
+.inline {
+    display: inline-flex;
+    margin-bottom: 20px;
 }
 
 .container {
     background-color: #7700FF;
-    height: auto;
     text-align: center;
+    width: 700px;
+    height: 100px;
+    margin: 0 auto;
+    color: #ccc;
+    border: 3px solid #000;
+    margin-left: 600px;
 }
+
+.button {
+    display: inline-flex;
+    margin-left: 740px;
+}
+
+button {
+    width: 150px;
+    font-size: 28px;
+    background-color: #3333FF;
+    color: white;
+    margin-left: 10px;
+    padding: 2px;
+}
+
+
+h2 {
+    font-weight: bold;
+    font-size: 50px;
+    margin: 15px
+}
+
+.list {
+    background-color: #a5a;
+    border: 6px double darkblue;
+    margin: 20px 200px;
+    padding-bottom: 20px;
+}
+
+.burger,
+.steak,
+.wings {
+    display: inline-flex;
+}
+
+.burger p,
+.wings p,
+.steak p {
+    font-size: 44px;
+    font-weight: bold;
+    background-color: #b5b;
+    color: #333;
+    border: 6px dotted #bbb;
+    width: 950px;
+    height: 210px;
+    margin-left: 40px;
+    margin-top: -10px;
+    padding: 30px;
+}
+
+.steak p {
+    width: 850px;
+}
+
+.button.bottom {
+    margin-left: 1495px;
+}
+
+#titles {
+    font-size: 45px;
+    margin-left: 18px;
+    padding: 20px;
+} 
+
+img {
+    width: auto;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: -20px;
+}
+
 
 .title {
     color: #EDEDED;
     font-weight: bold;
     height: 70px;
     font-size: 60px;
-}
-
-button {
-    font-size: 35px;
-    background-color: #3333FF;
-    color: white;
 }
 
 .burgerbody {
